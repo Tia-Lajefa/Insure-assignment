@@ -113,11 +113,12 @@ body{
   width: 100%;
 }
 
+
+/* middle section */
+
 .middle-section{
   min-height: 40vh;
-  /* background-color: darkslategrey; */
   margin-top: 90px;
-  /* margin-left: 50px; */
   gap: 4rem;
   display: flex;
   flex-direction: column;
